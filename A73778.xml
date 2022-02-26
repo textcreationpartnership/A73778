@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cuckowes comendation, or, The Cuckolds credit being a merry Maying song in praise of the cuckow : to the tune of The button'd smocke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73778</idno>
+            <idno type="STC">STC 6102.5</idno>
+            <idno type="STC">ESTC S126292</idno>
+            <idno type="EEBO-CITATION">39960661</idno>
+            <idno type="OCLC">ocm 39960661</idno>
+            <idno type="VID">150456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1942:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cuckowes comendation, or, The Cuckolds credit being a merry Maying song in praise of the cuckow : to the tune of The button'd smocke.</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed [by G. Purslowe] for Mr. R.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[ca. 1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside, cut in two parts.</note>
+                  <note>Name of printer and date of publication from STC (2nd ed.).</note>
+                  <note>Right half sheet contains "The second part, to the same tune."</note>
+                  <note>Contains three woodcut illustrations.</note>
+                  <note>Imperfect: cropped and stained, with slight loss of print.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150456:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>The Cuckowes Comendation: Or, the Cuckolds, Credit: Being a merry Maying Song in Praiſe of the Cuckow.</head>
+            <opener>To the Tune of the Button'd Smocke.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>OF all the Birds that haunts the woods,</l>
+                  <l>The waters or the Plaine;</l>
+                  <l>I like the Cuckows pleaſant tunes,</l>
+                  <l>though ſome his Notes diſdaine:</l>
+                  <l>For all the faire gréene Seaſon,</l>
+                  <l>moſt cheerfully he ſings,</l>
+                  <l>And with his double Ditties makes</l>
+                  <l>the Hilles and Valleyes ring.</l>
+               </lg>
+               <lg>
+                  <l>The Earth to entertaine him,</l>
+                  <l>puts on her beſt array,</l>
+                  <l>The lofty trees and lowly ſhrubs,</l>
+                  <l>likewiſe are freſh and gay;</l>
+                  <l>The Birds to bid him welcome in,</l>
+                  <l>doe warble pleaſant notes,</l>
+                  <l>All Beaſts in fields an<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Forreſts wild</l>
+                  <l>caſt off their winter coates.</l>
+               </lg>
+               <lg>
+                  <l>And when he comes amongſt them,</l>
+                  <l>he chaunts his melody,</l>
+                  <l>More freely then a <gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>awyer,</l>
+                  <l>that takes a double Fee:</l>
+                  <l>He farre excells the Fiddler,</l>
+                  <l>his melodie's more free,</l>
+                  <l>As well vnto the pooreſt ſort,</l>
+                  <l>as to the higheſt degree.</l>
+               </lg>
+               <lg>
+                  <l>The Citizens that heare him,</l>
+                  <l>will walke to fetch <gap reason="illegible: bleedthrough" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> May;</l>
+                  <l>Their wiues like <gap reason="illegible: bleedthrough" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> cheare them,</l>
+                  <l>will dreſſe themſel<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s  moſt gaye</l>
+                  <l>All for to heare the Cuckowſing,</l>
+                  <l>and warble forth his <gap reason="illegible: bleedthrough" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>es,</l>
+                  <l>The Maidens and the Prentiſes,</l>
+                  <l>together goe in flockes.</l>
+               </lg>
+               <lg>
+                  <l>He'll ſing vnto the Courtier,</l>
+                  <l>as well as to the the Clowne,</l>
+                  <l>He ſu<gap reason="illegible: bleedthrough" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>eth not his muſicke,</l>
+                  <l>in City nor in Towne:</l>
+                  <l>And many when they heare him,</l>
+                  <l>will thinke this Prouerb true,</l>
+                  <l>That Gold and Opportunity,</l>
+                  <l>will make ſome Women doe.</l>
+               </lg>
+               <lg>
+                  <l>The Lawyer when he heeres him,</l>
+                  <l>his veluet Cap off ſturres,</l>
+                  <l>And feares whilo hee's at Weſtminſter,</l>
+                  <l>another Cauſe demurres:</l>
+                  <l>Leſt that ſome younger Student come</l>
+                  <l>at home and in his place,</l>
+                  <l>To haue the free ſoliciting</l>
+                  <l>of his owne proper caſe.</l>
+               </lg>
+               <lg>
+                  <l>The Merchant and the Marriner,</l>
+                  <l>that forraigne Countries finde,</l>
+                  <l>When they doe heare the Cuckow ſing,</l>
+                  <l>reſt doubtfull in their mind:</l>
+                  <l>While they ſtrange traffickes take in hand</l>
+                  <l>to load their Ships with wares,</l>
+                  <l>Their Pinnace that they left at home</l>
+                  <l>ſome other Burthen beares.</l>
+               </lg>
+               <lg>
+                  <l>The Maidens when they heare him,</l>
+                  <l>accuſe him for a blab,</l>
+                  <l>The iealous Doctor when he cries,</l>
+                  <l>thinkes his young wife a Drab:</l>
+                  <l>Captaines and wedded Martialiſts,</l>
+                  <l>when they doe heare him cry,</l>
+                  <l>Likewiſe miſtruſt their Wiues at home,</l>
+                  <l>in others Armes doe lie.</l>
+               </lg>
+               <lg>
+                  <l>The ſilken ſuted Citizens</l>
+                  <l>which let their gorgeous Spouſes</l>
+                  <l>Goe frólicke in good company,</l>
+                  <l>whilſt they doe kéepe their houſes:</l>
+                  <l>If they doe blame the Cuckow ſweet,</l>
+                  <l>they doe the Bird abuſe:</l>
+                  <l>For wine and opportunity,</l>
+                  <l>will make ſome women looſe.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150456:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ANother takes a Garden,</l>
+                  <l>to which in pleaſant weather</l>
+                  <l>The Miſtris muſt a walking goe,</l>
+                  <l>the Prentice brings her thither:</l>
+                  <l>And then it ſo may fortune,</l>
+                  <l>that walking on the way,</l>
+                  <l>They fall into ſome dancing-Schools,</l>
+                  <l>and there they both doe ſtay.</l>
+               </lg>
+               <lg>
+                  <l>But then and if the Citizen</l>
+                  <l>doth heare the Cuckowes ſound,</l>
+                  <l>He feares not but his Prentiſes,</l>
+                  <l>from Venery are bound:</l>
+                  <l>Suſpecttly then he keepes his houſe,</l>
+                  <l>and caſteth vp his Booke,</l>
+                  <l>Meane while the Miſtris and her Man,</l>
+                  <l>are doing what, goe looke.</l>
+               </lg>
+               <lg>
+                  <l>And there he Knights and Gentlemen,</l>
+                  <l>which gallant ſeeme and ſtout,</l>
+                  <l>Doe let their wiues haue Coaches,</l>
+                  <l>to whirle the ſtreets about,</l>
+                  <l>Man'd only by a Coachman,</l>
+                  <l>an Vſher and a Page:</l>
+                  <l>Yet when they heare the Cuckowes note,</l>
+                  <l>they neither fume nor rage.</l>
+               </lg>
+               <lg>
+                  <l>For if my Lady lighteth,</l>
+                  <l>the Coachman muſt ſit ſtill,</l>
+                  <l>The Lacquey he is then imployd,</l>
+                  <l>to doe her worſhips will:</l>
+                  <l>The Vſher for her Ladiſhip,</l>
+                  <l>he well doth know his part,</l>
+                  <l>And doth that which the Prentiſe did,</l>
+                  <l>to pleaſe his Miſtris heart.</l>
+               </lg>
+               <lg>
+                  <l>The Taylor that ſo neatly</l>
+                  <l>doth fit his Miſtris waſt,</l>
+                  <l>And puts on her ſtrait Bodies,</l>
+                  <l>when Petticoats vnlac'd,</l>
+                  <l>Whilſt thus he fits his Miſtris,</l>
+                  <l>another is at home.</l>
+                  <l>To eaſe his wiues ſtrait Bodies,</l>
+                  <l>which are to narrow growne.</l>
+               </lg>
+               <lg>
+                  <l>The Butcher that for fat wars</l>
+                  <l>full oft abroad doth ride,</l>
+                  <l>And leaues his wife to ſell the Ioynts,</l>
+                  <l>that he doth well prouide:</l>
+                  <l>While he from home is ranging,</l>
+                  <l>his Wife a Friend may finde,</l>
+                  <l>That of a Lambe may make a Ram,</l>
+                  <l>and vſe her very kinde.</l>
+               </lg>
+               <lg>
+                  <l>The Smith which on his Anuill,</l>
+                  <l>the Iron hard doth ding:</l>
+                  <l>He cannot heare the Cuckow,</l>
+                  <l>although he loud doth ſing,</l>
+                  <l>In poynting of Plow-Harneſſe,</l>
+                  <l>he labours till he ſweat,</l>
+                  <l>While another in his Forge at home,</l>
+                  <l>may ſteale a priuate heat.</l>
+               </lg>
+               <lg>
+                  <l>But to conclude of all ſorts,</l>
+                  <l>though high or low they be,</l>
+                  <l>Theres many looſe back-ſliders,</l>
+                  <l>would there were none for me:</l>
+                  <l>And yet it grieues my Conſcience,</l>
+                  <l>that ſuch a louely Game,</l>
+                  <l>Should make the Cuckow hated,</l>
+                  <l>and ſcandall his good name,</l>
+               </lg>
+               <lg>
+                  <l>His body is as toothſome,</l>
+                  <l>and pleaſant as his voyce,</l>
+                  <l>And vſe him as a Dyet,</l>
+                  <l>he is a food moſt choyſe:</l>
+                  <l>He fortifies the back part,</l>
+                  <l>and freeth ſome Diſeaſe,</l>
+                  <l>And therefore vſe you all the Art,</l>
+                  <l>may beſt the Cuckow pleaſe.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for M<hi rend="sup">r</hi>. <hi>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
